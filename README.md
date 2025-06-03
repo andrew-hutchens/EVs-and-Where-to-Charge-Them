@@ -7,5 +7,6 @@ The necessary data is available from the following sources:
 - American Community Survey (https://www.census.gov/programs-surveys/acs/data.html)
 - NREL Data Catalog (https://data.nrel.gov/)
 - United States Census Bureau TIGER/Line Shapefiles (https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
+
 Note that the UST data is more easily obtained directly from EPA by emailing USTFinder@epa.gov.
 Please direct all inquiries to ahutchen@utk.edu or aphutchens96@gmail.com.
